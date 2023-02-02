@@ -43,11 +43,13 @@
     .modal #video{
         width:300px ;
         height: 169px;
+        align-items: center;
     }
 }
 @media(max-width:376px){
     .modal #video{
         width: 250px;
         height: 140px;
+     
     }
 }
